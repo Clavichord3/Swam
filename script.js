@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { word: 'arrangement', definition: 'n.安排；布置； 约定；排列' },
         { word: 'establish', definition: 'vt.建立(关系或联系)；设立；确立；使得到认可；查实，确定' },
         { word: 'frontier', definition: 'n.国界，边缘，尖端，边缘' }
-        { word: 'Exit', definition: 'n.出口' }
+        { word: 'front', definition: 'n.国界' }
     ];
 
     // DOM 元素
